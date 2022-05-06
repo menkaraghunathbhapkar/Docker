@@ -1,4 +1,5 @@
 # Getting Started...
+**version 1.0.0**
 Here we are creating a redme file for writing down notes on how to use docker
 -----------
 ## Installation guides
@@ -11,3 +12,6 @@ Here we are creating a redme file for writing down notes on how to use docker
 ```sh
 docker install
 ```
+
+##License and Copyright
+@ Menka bhapkar
