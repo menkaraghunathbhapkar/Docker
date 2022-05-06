@@ -13,5 +13,5 @@ Here we are creating a redme file for writing down notes on how to use docker
 docker install
 ```
 
-##License and Copyright
+## License and Copyright
 @ Menka bhapkar
