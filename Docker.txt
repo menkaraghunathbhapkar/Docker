@@ -1,0 +1,12 @@
+For Docker
+download Docker Desktop ->Installation takes more time
+1.followed One video on youtube:https://www.youtube.com/watch?v=85Qc87NeKEM&t=889s
+2.Followed instructions from docker desktop Application of first use case
+	How to create a container
+	How to start container
+3.https://www.youtube.com/watch?v=f21unj3ob-c
+	
+
+for docker:
+https://eylearning.udemy.com/course/learn-docker/learn/lecture/15829496?start=345#overview
+	Developed by Mumshad Mannambeth

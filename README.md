@@ -1,20 +1,20 @@
-# Getting Started...
-**version 1.0.0**
-Here we are creating a redme file for writing down notes on how to use docker
------------
-## Installation guides
+# Welcome to Docker
 
-1. Install NodeJS 14.15.0
-2. Install Python 3.8.12
---------
-#### Docker
+This is a repo for new users getting started with Docker.
 
-```sh
-docker install
+You can try it out using the following command.
 ```
+docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
+```
+And open `http://localhost:8088` in your browser.
 
-## License and Copyright
-@ Menka bhapkar
+# Building
 
-## contributors
-- abc
+Maintainers should see [MAINTAINERS.md](MAINTAINERS.md).
+
+Build and run:
+```
+docker build -t welcome-to-docker . 
+docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
+```
+Open `http://localhost:8088` in your browser.
